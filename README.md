@@ -471,6 +471,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - A book about building web apps that are ready for and resilient to any attack.
 
 ## Other Awesome Lists
+- [Pentest Mindmap](https://pentestmindmap.com/en) - Interactive mindmap with 11,600+ pentesting commands across 32 categories. Searchable with one-click copy.
 
 ### Other Security Awesome Lists
 
